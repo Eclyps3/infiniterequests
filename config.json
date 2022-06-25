@@ -1,0 +1,20 @@
+{
+
+    "websiteURL": "https://www.example.com",
+
+    "method": "post",
+
+    "repetition": 1,
+
+    "data": {
+        "username": "dog0385",
+        "password": "f00dismyh3av€n"
+    },
+
+    "premium": {
+        "pack": "free",
+        "premiumKEY": "XXXX-YYY-XXXX-YYYYY",
+        "method": "ULTRA"
+    }
+
+}
