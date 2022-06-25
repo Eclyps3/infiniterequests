@@ -1,6 +1,3 @@
-# CREDITS:          https://www.youtube.com/c/EngineerMan
-
-
 THIS IS FOR EDUCATIONAL PURPOSE ONLY!
 
 
@@ -26,9 +23,7 @@ THIS IS FOR EDUCATIONAL PURPOSE ONLY!
         "method": "ULTRA"			
     }
 
-}
-
-    
+ 
 }
 
 ##### ##### ##### ##### ##### ##### ##### 
@@ -37,3 +32,28 @@ THIS IS FOR EDUCATIONAL PURPOSE ONLY!
 
 
 # CREDITS:          https://www.youtube.com/c/EngineerMan
+
+
+
+##### ##### ##### ##### ##### ##### ##### 
+
+INSTALLATION:
+
+
+----------------------------------------
+Requirements: Python and PIP 
+--------------------
+
+1. Install "requests" with pip
+
+    run ' pip install requests ' into your terminal
+
+2. Run main.py with python
+
+    Run in your terminal
+
+    ' python main.py ' and it should work.
+    
+    if not, check if you have Python installed into your computer
+
+
